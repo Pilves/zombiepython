@@ -10,6 +10,7 @@ zombieimg = pygame.image.load('zombie1.png').convert_alpha()
 a=0
 b=0
 #ma teen siia ühe muutuse
+#birgitti on ilus
 class Player():
     def __init__(self):
         self.x = 640
