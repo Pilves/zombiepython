@@ -9,7 +9,7 @@ screen = pygame.display.set_mode((1280,720))
 zombieimg = pygame.image.load('zombie1.png').convert_alpha()
 a=0
 b=0
-#muudame siina
+#ma teen siia ühe muutuse
 class Player():
     def __init__(self):
         self.x = 640
